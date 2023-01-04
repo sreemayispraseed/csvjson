@@ -21,17 +21,17 @@
   },
   {
     "questions": "If in a certain language THEN is coded as RLBS then which word is coded as AEPJ?",
-    "options": "A) CSAE  B) SACE C) CASE  D) CAES",
+    "options": ["CSAE", "SACE", "CASE", "CAES"],
     "answer": "CASE"
   },
   {
     "questions": "If in a certain language, NEOMAN is coded as OGRQFT, which word will be coded as ZKCLUP?",
-    "options": "A) YIZHPJ B) XIAJSN C) YJBKTO D) ZIBQJL",
+    "options": ["YIZHPJ", "XIAJSN", "YJBKTO", "ZIBQJL"],
     "answer": "YIZHPJ"
   },
   {
     "questions": "Two ships are sailing in the sea on the two sides of a lighthouse. The angle of elevation of the top of the lighthouse is observed from the ships are 30° and 45° respectively. If the lighthouse is 100 m high, the distance between the two ships is:",
-    "options": ["173 m ", "200 m", "273 m", "300 m"],
+    "options": ["173 m", "200 m", "273 m", "300 m"],
     "answer": "273 m"
   },
   {
