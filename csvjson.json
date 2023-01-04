@@ -1,0 +1,492 @@
+[
+  {
+    "questions": "In a certain city, 25% of the population is unemployed. If the city has a population of 60,000, how many people are employed?",
+    "options": "A) 45,000\n B) 15,000\n C) 30,000\n D) 50,000",
+    "answer": "D"
+  },
+  {
+    "questions": "If x and y are positive integers, is xy odd?",
+    "options": "A) Yes, if x is odd and y is odd\n B) Yes, if x is even and y is even\n C) No, if x is odd and y is odd\n D) No, if x is even and y is even",
+    "answer": "A"
+  },
+  {
+    "questions": "A number is chosen at random from the set {1, 2, 3, 4, 5}. What is the probability that the number chosen is a multiple of 3 or a multiple of 4?",
+    "options": "A) 0.4\n B) 0.6\n C) 0.8\n D) 0.2",
+    "answer": "B"
+  },
+  {
+    "questions": "If the length of a rectangle is decreased by 25% and the width is increased by 25%, what is the net effect on the area of the rectangle?",
+    "options": "A) The area is decreased by 25%\n B) The area is increased by 25%\n C) The area is unchanged\n D) The area is decreased by 6.25%",
+    "answer": "C"
+  },
+  {
+    "questions": "If a, b, and c are positive integers such that a + b + c = 12, what is the maximum possible value of a^2 + b^2 + c^2?",
+    "options": "A) 36\n B) 48\n C) 60\n D) 72\n E) 84",
+    "answer": "E"
+  },
+  {
+    "questions": "A certain computer can perform 10^3 calculations per second. How many calculations can it perform in 10^4 seconds?",
+    "options": "A) 10^4\n B) 10^5\n C) 10^6\n D) 10^7\n E) 10^8",
+    "answer": "B"
+  },
+  {
+    "questions": "A sequence is defined by the following rule: the first term is 1, and each subsequent term is equal to the sum of the two previous terms. What is the 10th term of this sequence?",
+    "options": "A) 55\n B) 89\n C) 144\n D) 233\n E) 377",
+    "answer": "D"
+  },
+  {
+    "questions": "There are 12 people at a party, and each person shakes hands with every other person exactly once. How many handshakes occurred?",
+    "options": "A) 12\n B) 66\n C) 144\n D) 132\n E) 78",
+    "answer": "E"
+  },
+  {
+    "questions": "If x is equal to the product of y and z, and y is equal to the quotient of u and v, what is the value of x in terms of u and v if x = 6, y = 2, and z = 3?",
+    "options": "A) u = 3, v = 1\n B) u = 6, v = 2\n C) u = 9, v = 3\n D) u = 4, v = 2\n E) u = 12, v = 4",
+    "answer": "D"
+  },
+  {
+    "questions": "One third of a number is 96. What will 67% of that number be?",
+    "options": "A) 19296\n B) 18444\n C) 16992\n D) 20488",
+    "answer": "A"
+  },
+  {
+    "questions": "In a group of 7 people, 5 of them are male and 2 are female. What is the probability that a randomly chosen person is male?",
+    "options": "A) 0.5\n B) 0.6\n C) 0.7\n D) 0.8\n E) 0.9",
+    "answer": "C"
+  },
+  {
+    "questions": "A rectangular prism has dimensions of 3x, 4x, and 5x. What is the volume of the prism in terms of x?",
+    "options": "A) 15x^3\n B) 60x^3\n C) 20x^3\n D) 48x^3\n E) 24x^3",
+    "answer": "B"
+  },
+  {
+    "questions": "The ratio between the present ages of A and B is 3:5 respectively. If the difference between B's present age and A's age after 4 years is 2 , what is the total of A's and B's present ages?",
+    "options": "a. 24 years\n b. 32 year\n c. 48 years\n d. cannot be determined\n e. None of these",
+    "answer": "A"
+  },
+  {
+    "questions": "If in a certain language THEN is coded as RLBS then which word is coded as AEPJ?",
+    "options": "A) CSAE \n B) SACE\n C) CASE \n D) CAES",
+    "answer": "CASE"
+  },
+  {
+    "questions": "If in a certain language, NEOMAN is coded as OGRQFT, which word will be coded as ZKCLUP?",
+    "options": "A) YIZHPJ\n B) XIAJSN\n C) YJBKTO\n D) ZIBQJL",
+    "answer": "YIZHPJ"
+  },
+  {
+    "questions": "Two ships are sailing in the sea on the two sides of a lighthouse. The angle of elevation of the top of the lighthouse is observed from the ships are 30° and 45° respectively. If the lighthouse is 100 m high, the distance between the two ships is:",
+    "options": "A. 173 m\n B. 200 m\n C. 273 m\n D. 300 m",
+    "answer": "273 m"
+  },
+  {
+    "questions": "The angle of elevation of a ladder leaning against a wall is 60° and the foot of the ladder is 4.6 m away from the wall. The length of the ladder is:",
+    "options": "A. 2.3 m\n B. 4.6 m\n C. 7.8 m\n D. 9.2 m",
+    "answer": "9.2 m"
+  },
+  {
+    "questions": "Look at this series: 7, 10, 8, 11, 9, 12, ... What number should come next?",
+    "options": "A. 7\n B. 10\n C. 12\n D. 13",
+    "answer": 10
+  },
+  {
+    "questions": "All the trees in the park are flowering trees.\n Some of the trees in the park are dogwoods.\n All dogwoods in the park are flowering trees.\n If the first two statements are true, the third statement is",
+    "options": "A. true\n B. false\n C. uncertain",
+    "answer": true
+  },
+  {
+    "questions": "Two students appeared at an examination. One of them secured 9 marks more than the other and his marks was 56% of the sum of their marks. The marks obtained by them are:",
+    "options": "A. 39, 30\n B. 41, 32\n C. 42, 33\n D. 43, 34",
+    "answer": "42, 33"
+  },
+  {
+    "questions": "What percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit?",
+    "options": "A. 1\n B. 14\n C. 20\n D. 21",
+    "answer": "C. 20"
+  },
+  {
+    "questions": "If A = x% of y and B = y% of x, then which of the following is true?",
+    "options": "A. A is smaller than B.\n B. A is greater than B\n C. Relationship between A and B cannot be determined.\n D. If x is smaller than y, then A is greater than B.\n E. None of these",
+    "answer": "E. None of these"
+  },
+  {
+    "questions": "Choose the correct alternative that will continue the same pattern and replace the question mark in the given series;\n 120, 99, 80, 63, 48, ?",
+    "options": "A. 35\n B. 38\n C. 39\n D. 40",
+    "answer": "A.35"
+  },
+  {
+    "questions": "In the series 2, 6, 18, 54, ...... what will be the 8th term ?",
+    "options": "A. 4370\n B. 4374\n C. 7443\n D. 7434",
+    "answer": "B. 4374"
+  },
+  {
+    "questions": "If A is the brother of B; B is the sister of C; and C is the father of D, how D is related to A?",
+    "options": "A. Brother\n B. Sister\n C. Nephew\n D. Cannot be determined",
+    "answer": "D. Cannot be determined"
+  },
+  {
+    "questions": "How many cubes having red, green and black colours on at least one side of the cube will be formed ?",
+    "options": "A. 16\n B. 12\n C. 10\n D. 4",
+    "answer": "D. 4"
+  },
+  {
+    "questions": "A, P, R, X, S and Z are sitting in a row. S and Z are in the centre. A and P are at the ends. R is sitting to the left of A. Who is to the right of P ?",
+    "options": "A. A\n B. X\n C. S\n D. Z",
+    "answer": "B. X"
+  },
+  {
+    "questions": "Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case",
+    "options": "A. 4\n B. 7\n C. 9\n D. 13",
+    "answer": "A. 4"
+  },
+  {
+    "questions": "Let N be the greatest number that will divide 1305, 4665 and 6905, leaving the same remainder in each case. Then sum of the digits in N is:",
+    "options": "A. 4\n B. 5\n C. 6\n D. 8",
+    "answer": "A. 4"
+  },
+  {
+    "questions": "If 2994 ÷ 14.5 = 172, then 29.94 ÷ 1.45 = ?",
+    "options": "A. 0.172\n B. 1.72\n C. 17.2\n D. 172",
+    "answer": "C. 17.2"
+  },
+  {
+    "questions": "A hall is 15 m long and 12 m broad. If the sum of the areas of the floor and the ceiling is equal to the sum of the areas of four walls, the volume of the hall is:",
+    "options": "A. 720\n B. 900\n C. 1200\n D. 1800",
+    "answer": "C. 1200"
+  },
+  {
+    "questions": "2 years ago A’s age was 6 times of B’s age. 6 years after the ratio between the ages of A and B becomes 10 : 3. What is A’s present age?",
+    "options": "A. 44\n B. 38\n C.42\n D. 34",
+    "answer": "A. 44"
+  },
+  {
+    "questions": "A guy bought 10 pencils for Rs. 50 and sold them for Rs. 60.What is his gain in terms of percentage?",
+    "options": "A. 10%\n B. 5%\n C. 20%\n D. 12%",
+    "answer": "C. 20%"
+  },
+  {
+    "questions": "In the first 10 overs of a cricket game, the run rate was only 3.2. What should be the run rate in the remaining 40 overs to reach the target of 282 runs?",
+    "options": "A. 6.25\n B. 6.5\n C. 6.75\n D. 7",
+    "answer": "A. 6.25"
+  },
+  {
+    "questions": "A grocer has a sale of Rs. 6435, Rs. 6927, Rs. 6855, Rs. 7230 and Rs. 6562 for 5 consecutive months. How much sale must he have in the sixth month so that he gets an average sale of Rs. 6500?",
+    "options": "A. Rs. 4991\n B. Rs. 5991\n C. Rs. 6001\n D. Rs. 6991",
+    "answer": "A. Rs. 4991"
+  },
+  {
+    "questions": "The average of 20 numbers is zero. Of them, at the most, how many may be greater than zero?",
+    "options": "A. 0\n B. 1\n C. 10\n D. 19",
+    "answer": "D. 19"
+  },
+  {
+    "questions": "The average weight of 8 person's increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What might be the weight of the new person?",
+    "options": "A. 76 kg\n B. 76.5 kg\n C. 85 kg\n D. Data inadequate\n E. None of these",
+    "answer": "C. 85 kg"
+  },
+  {
+    "questions": "The average monthly income of P and Q is Rs. 5050. The average monthly income of Q and R is Rs. 6250 and the average monthly income of P and R is Rs. 5200. The monthly income of P is",
+    "options": "A. 3500\n B. 4000\n C. 4050\n D. 5000",
+    "answer": "B. 4000"
+  },
+  {
+    "questions": "A car owner buys petrol at Rs.7.50, Rs. 8 and Rs. 8.50 per litre for three successive years. What approximately is the average cost per litre of petrol if he spends Rs. 4000 each year?",
+    "options": "A. Rs. 7.98\n B. Rs. 8\n C. Rs. 8.50\n D. Rs. 9",
+    "answer": "A. Rs. 7.98"
+  },
+  {
+    "questions": "In Arun's opinion, his weight is greater than 65 kg but less than 72 kg. His brother does not agree with Arun and he thinks that Arun's weight is greater than 60 kg but less than 70 kg. His mother's view is that his weight cannot be greater than 68 kg. If all are them are correct in their estimation, what is the average of different probable weights of Arun?",
+    "options": "A. 67 kg.\n B. 68 kg.\n C. 69 kg.\n D. Data inadequate\n E. None of these",
+    "answer": "A. 67 kg."
+  },
+  {
+    "questions": "An accurate clock shows 8 o'clock in the morning. Through how may degrees will the hour hand rotate when the clock shows 2 o'clock in the afternoon?",
+    "options": "A. 144°\n B. 150°\n C. 168°\n D. 180°",
+    "answer": "D. 180°"
+  },
+  {
+    "questions": "From a point P on a level ground, the angle of elevation of the top tower is 30°. If the tower is 100 m high, the distance of point P from the foot of the tower is:",
+    "options": "A. 149 m\n B. 156 m\n C. 173 m\n D. 200 m",
+    "answer": "C. 173 m"
+  },
+  {
+    "questions": "In the first 10 overs of a cricket game, the run rate was only 3.2. What should be the run rate in the remaining 40 overs to reach the target of 282 runs?",
+    "options": "A. 6.25\n B. 6.5\n C. 6.75\n D. 7",
+    "answer": "A. 6.25"
+  },
+  {
+    "questions": "A hall is 15 m long and 12 m broad. If the sum of the areas of the floor and the ceiling is equal to the sum of the areas of four walls, the volume of the hall is:",
+    "options": "A. 720\n B. 900\n C. 1200\n D. 1800",
+    "answer": "C. 1200"
+  },
+  {
+    "questions": "66 cubic centimetres of silver is drawn into a wire 1 mm in diameter. The length of the wire in metres will be",
+    "options": "A. 84\n B. 90\n C. 168\n D. 336",
+    "answer": "A. 84"
+  },
+  {
+    "questions": "A fruit seller had some apples. He sells 40% apples and still has 420 apples. Originally, he had",
+    "options": "A. 588 apples\n B. 600 apples\n C. 672 apples\n D. 700 apples",
+    "answer": "D. 700 apples"
+  },
+  {
+    "questions": "If A = x% of y and B = y% of x, then which of the following is true?",
+    "options": "A. A is smaller than B.\n B. A is greater than B\n C. Relationship between A and B cannot be determined.\n D. If x is smaller than y, then A is greater than B.\n E. None of these",
+    "answer": "E. None of these"
+  },
+  {
+    "questions": "Two tailors X and Y are paid a total of Rs. 550 per week by their employer. If X is paid 120 percent of the sum paid to Y, how much is Y paid per week?",
+    "options": "A. Rs. 200\n B. Rs. 250\n C. Rs. 300\n D. None of these",
+    "answer": "B. Rs. 250"
+  },
+  {
+    "questions": "What will be the day of the week 15th August, 2010?",
+    "options": "A. Sunday\n B. Monday\n C. Tuesday\n D. Friday",
+    "answer": "A. Sunday"
+  },
+  {
+    "questions": "How many days are there in x weeks x days?",
+    "options": "A. 7x2\n B. 8x\n C. 14x\n D. 7",
+    "answer": "B. 8x"
+  },
+  {
+    "questions": "Pointing to a man in a photograph, a woman said, \"He is the only son of my mother's father\". How is the woman related to the man in the photograph?",
+    "options": "a) Mother b) Niece c)Wife d)Sister",
+    "answer": "Niece"
+  },
+  {
+    "questions": "She has the courage to rise from the occasion and win the medal for the country.",
+    "options": "a) to rise to b) to rise c)to rise against d)no improvement required",
+    "answer": "a)"
+  },
+  {
+    "questions": "A train speeding at 120 km/hr crosses an electric pole in 9 seconds and a platform in 24 seconds. What is the length of the platform?",
+    "options": "a)500m b) 800m c)300m d)1100m",
+    "answer": "a)"
+  },
+  {
+    "questions": "A coin is tossed 3 times. The probability of obtaining at least two heads is",
+    "options": "a)1/8 b)3/8 c)1/2 d)2/3",
+    "answer": "c)"
+  },
+  {
+    "questions": "The distance between two cities is 30 Km. A man goes at a speed of 30 Km per hour and returns at 20 Km per hour. What is his average speed",
+    "options": "a)24 b) 25 c)10 d)26",
+    "answer": "a)"
+  },
+  {
+    "questions": "Four years ago a man was 6 times as old as his son. After 16 years he will be twice as old as his son. What is the present age of man and his son?",
+    "options": "a)34,9 b) 33,7 c)35,5 d)36,6",
+    "answer": "a)"
+  },
+  {
+    "questions": "If one-third of one-fourth of a number is 15, then three-tenth of that number is:",
+    "options": "a)35 b) 36 c)45 d)54",
+    "answer": "d)"
+  },
+  {
+    "questions": "Jack is playing volleyball with his friends .... the beach.",
+    "options": "a) at b) on c)in d)of",
+    "answer": "b)"
+  },
+  {
+    "questions": "The ratio of A's age 6 years ago and B's age after 6 years is 3 : 3. If at present, the ratio of their ages is 7 : 5, then what is the ratio between A's age 6 years hence and B's age 6 years ago?",
+    "options": "a) 3:5 b) 2:3 c) 1:2 d) 2:1",
+    "answer": "d)"
+  },
+  {
+    "questions": "The sum of the first three terms of an arithmetic sequence is 111 and the fourth term is 49. What is the first term?",
+    "options": "a)24 b) 31 c)37 d)13",
+    "answer": "b)"
+  },
+  {
+    "questions": "Hit the sack(idiom,find the phrase)",
+    "options": "a) It's not complicated b) Tell something briefly c) Go to sleep d) Don't give up",
+    "answer": "c)"
+  },
+  {
+    "questions": "Assertion:\n Carbohydrates provide energy to the body.\n Reason:\n Obesity is caused by excessive intake of carbohydrates.",
+    "options": "a) Both Assertion and Reason are correct and Reason is the correct explanation for Assertion b) Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion c)Assertion is correct but Reason is incorrect d) Both Assertion and Reason are incorrect",
+    "answer": "c)"
+  },
+  {
+    "questions": "What was the day on 27th –November-1989?",
+    "options": "a. Monday b. Wednesday, c. Saturday, d. Tuesday",
+    "answer": "d)"
+  },
+  {
+    "questions": "Mother said to kids,\"Don't go out on a bright, sunny day.Find the adjective",
+    "options": "a) bright\n b) sunny\n c) both A and B\n d) out",
+    "answer": "b)"
+  },
+  {
+    "questions": "",
+    "options": "",
+    "answer": ""
+  },
+  {
+    "questions": "",
+    "options": "",
+    "answer": ""
+  },
+  {
+    "questions": "",
+    "options": "",
+    "answer": ""
+  },
+  {
+    "questions": "Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 3 or 5?",
+    "options": "A. 1/2\n B. 2/5\n C. 8/15\n \n D. 9/20",
+    "answer": "d)"
+  },
+  {
+    "questions": "A can contains a mixture of two liquids A and B is the ratio 7 : 5. When 9 litres of mixture are drawn off and the can is filled with B, the ratio of A and B becomes 7 : 9. How many litres of liquid A was contained by the can initially?",
+    "options": "A. 10\n B. 20\n C. 21\n D. 25",
+    "answer": "c)"
+  },
+  {
+    "questions": "In what ratio must a grocer mix two varieties of pulses costing Rs. 15 and Rs. 20 per kg respectively so as to get a mixture worth Rs. 16.50 kg?",
+    "options": "A. 3 : 7\n B. 5 : 7\n C. 7 : 3\n D. 7 : 5",
+    "answer": "c)"
+  },
+  {
+    "questions": "From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are there on the committee. In how many ways can it be done?",
+    "options": "A. 564\n B. 645\n C. 735\n D. 756",
+    "answer": "d)"
+  },
+  {
+    "questions": "In how many different ways can the letters of the word 'LEADING' be arranged in such a way that the vowels always come together?",
+    "options": "A. 360\n B. 480\n C. 720\n D. 5040",
+    "answer": "c)"
+  },
+  {
+    "questions": "The compound interest on Rs. 30,000 at 7% per annum is Rs. 4347. The period (in years) is:",
+    "options": "A. 2\n B. 2 1/2\n C. 3\n D. 4",
+    "answer": "a)"
+  },
+  {
+    "questions": "If log 27 = 1.431, then the value of log 9 is:",
+    "options": "A. 0.934\n B. 0.945\n C. 0.954\n D. 0.958",
+    "answer": "c)"
+  },
+  {
+    "questions": "Today it is Thursday.After 132 days,it will be",
+    "options": "A) Monday\n \n B) Sunday\n \n C) Wednesday\n \n D) Thursday",
+    "answer": "c)"
+  },
+  {
+    "questions": "Find the H.C.F, if the numbers are in the ratio of 4 : 5 : 6 and their L.C.M. is 2400.",
+    "options": "A) 35\n \n B) 20\n \n C) 40\n \n D) 67",
+    "answer": "b)"
+  },
+  {
+    "questions": "A and B together can finish a work in 30 days. They worked for it for 20 days and then B left the work. The remaining work was done by A alone in 20 days more. In how many days can A alone finish the work?",
+    "options": "(A) 48 days\n  (B) 50 days\n  (C) 54 days\n  (D) 60 days",
+    "answer": "d)"
+  },
+  {
+    "questions": "If percentage of profit made, when an article is sold for Rs.78, is twice as when it is sold for Rs.69, the cost price of the article is",
+    "options": "(A) Rs. 49\n  (B) Rs. 51\n  (C) Rs. 57\n  (D) Rs. 60",
+    "answer": "d)"
+  },
+  {
+    "questions": "Gautam travels 160 kms at 32 kmph and returns at 40 kmph. Then average speed is",
+    "options": "(A) 35.55 kmph\n  (B) 71.11 kmph\n  (C) 36 kmph\n  (D) 72 kmph",
+    "answer": "a)"
+  },
+  {
+    "questions": ".If a+b+c = 6 and ab+bc+ca = 1, then the value of bc(b+c) + ca(c+a) +ab(a+b) +3abc is",
+    "options": "(A) 33\n  (B) 66\n  (C) 55\n  (D) 23",
+    "answer": "b)"
+  },
+  {
+    "questions": "120 men consume 720 kg of rice in 30 days. In how many days can 90 men consume 270 kg?",
+    "options": "(A) 18\n \n (B) 12\n \n (C) 9\n \n (D) 15",
+    "answer": "d)"
+  },
+  {
+    "questions": "A and B can together complete a task 40 days. They worked together for 30 days and then left. A finished the remaining task in next 22 days. In how many days A alone can finish the task?",
+    "options": "(A) 88 days\n \n (B) 48 days\n \n (C) 30 days\n \n (D) 40 days",
+    "answer": "a)"
+  },
+  {
+    "questions": "If A: B = 2: 3, B: C = 6: 11 then what is the value of C: B: A?",
+    "options": "(A) 11: 6: 2\n \n (B) 22: 6: 4\n \n (C) 11: 3: 2\n \n (D) 11: 6: 4",
+    "answer": "d)"
+  },
+  {
+    "questions": "In a certain code ‘GIVE’ is writ­ten as ’51@©’ and ‘FAIL’ is writ­ten as ‘%219’. How is LEAF writ-ten in that code ?",
+    "options": "(a) 5©2%\n (b) 9©2%\n (c) 9@2%\n (d) 9©1%",
+    "answer": "b)"
+  },
+  {
+    "questions": "In a certain code language ‘RISE’ is written as ‘8419’, and ‘MEAL’ is written as ‘5927’. How is ‘RAIL written in that code ?",
+    "options": "(a) 8429\n (b) 8124\n (c) 8247\n (d) 8412",
+    "answer": "c)"
+  },
+  {
+    "questions": "The day after the day after tomorrow is four days before Monday. What day is it today?",
+    "options": "A. Monday\n B. Tuesday\n C. Wednesday\n D. Thursday",
+    "answer": "d)"
+  },
+  {
+    "questions": ". A fruit basket contains more apples than lemons.\n There are more lemons in the basket than there are oranges.\n The basket contains more apples than oranges.\n \n If the first two statements are true, the third statement is",
+    "options": "a) true b) false",
+    "answer": "a)"
+  },
+  {
+    "questions": "In a code, CORNER is written as GSVRIV. How can CENTRAL be written in that code?",
+    "options": "A. DFOUSBM\n \n \n B. GIRXVEP\n C. GNFJKER\n D. None of these",
+    "answer": "b)"
+  },
+  {
+    "questions": "A person crosses a 600 m long street in 5 minutes. What is his speed in km per hour?",
+    "options": "A. 3.6\n B. 7.2\n C. 8.4\n D. 10",
+    "answer": "b)"
+  },
+  {
+    "questions": "Walking at the rate of 4 kmph a man cover a certain distance in 2 hr 45 min. Running at a speed of 16.5 kmph the man will cover the same distance in.",
+    "options": "A. 12 min\n B. 40 min\n C. 50 min\n D. 60 min",
+    "answer": "b)"
+  },
+  {
+    "questions": "Express 25 mps in kmph?",
+    "options": "A. 15 kmph\n B. 99 kmph\n C. 90 kmph\n D. None",
+    "answer": "c)"
+  },
+  {
+    "questions": "A, B and C take a work at Rs 24000. A alone can do the work in 20 days, B alone can do the same work in 30 days and C alone can do the same work in 24 days. Find the wages of A.",
+    "options": "A. Rs 9400\n B. Rs 6500\n C. Rs 6480\n D. Rs 9600",
+    "answer": "d)"
+  },
+  {
+    "questions": "A and B can do a piece of work in 4 days, while C and D can do the same work in 12 days. In how many days will A, B, C and D do it together?",
+    "options": "A. 12 days\n B. 4 days\n C. 3 days\n D. 2 days",
+    "answer": "a)"
+  },
+  {
+    "questions": "A completes a work in 12 days and B complete the same work in 24 days. If both of them work together, then the number of days required to complete the work will be",
+    "options": "A. 8 days\n B. 5 days\n C. 6 days\n D. 7 days",
+    "answer": "a)"
+  },
+  {
+    "questions": ". If the cost price is 25% of selling price. Then what is the profit percent.",
+    "options": "A. 150%\n B. 200%\n C. 300%\n D. 350%",
+    "answer": "c)"
+  },
+  {
+    "questions": "If a cost price of a pencil box is Rs.67 and selling price is Rs.70.Is there is profit or loss?",
+    "options": "A. Rs.2\n B. Rs.3\n C. Rs.4\n D. RS.5",
+    "answer": "b)"
+  },
+  {
+    "questions": "The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, find out the value of x?",
+    "options": "A. 13\n B. 14\n C. 15\n D. 16",
+    "answer": "d)"
+  },
+  {
+    "questions": "A fruit seller had some apples. He sells 40% apples and still has 420 apples. Originally, he had:",
+    "options": "A. 588 apples\n B. 600 apples\n C. 672 apples\n D. 700 apples",
+    "answer": "d)"
+  }
+]
