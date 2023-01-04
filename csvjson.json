@@ -56,13 +56,13 @@
   },
   {
     "questions": "In a group of 7 people, 5 of them are male and 2 are female. What is the probability that a randomly chosen person is male?",
-    "options": "A) 0.5\n B) 0.6\n C) 0.7\n D) 0.8\n E) 0.9",
-    "answer": "C"
+    "options": ["0.5\n", "0.6\n", "0.7\n", "0.8\n", "0.9"],
+    "answer": "0.7\n"
   },
   {
     "questions": "A rectangular prism has dimensions of 3x, 4x, and 5x. What is the volume of the prism in terms of x?",
-    "options": "A) 15x^3\n B) 60x^3\n C) 20x^3\n D) 48x^3\n E) 24x^3",
-    "answer": "B"
+    "options": [" 15x^3\n", "60x^3\n", "20x^3\n", "48x^3\n"],
+    "answer": "60x^3\n"
   },
   {
     "questions": "The ratio between the present ages of A and B is 3:5 respectively. If the difference between B's present age and A's age after 4 years is 2 , what is the total of A's and B's present ages?",
