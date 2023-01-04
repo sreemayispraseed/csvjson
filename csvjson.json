@@ -36,12 +36,12 @@
   },
   {
     "question": "A certain computer can perform 10^3 calculations per second. How many calculations can it perform in 10^4 seconds?",
-    "options": ["10^4", "10^5", "10^6", "10^7", "10^8"],
+    "options": ["10^4", "10^5", "10^6", "10^7"],
     "answer": "10^4"
   },
   {
     "question": "A sequence is defined by the following rule: the first term is 1, and each subsequent term is equal to the sum of the two previous terms. What is the 10th term of this sequence?",
-    "options": ["55", "  89", "  144", "  233", "  377"],
+    "options": ["55", "89", "144", "377"],
     "answer": "377"
   },
   {
@@ -55,7 +55,6 @@
       "u = 3, v = 1",
       "u = 6, v = 2",
       "u = 9, v = 3",
-      "u = 4, v = 2",
       "u = 12, v = 4"
     ],
     "answer": "u = 12, v = 4"
@@ -68,7 +67,7 @@
   },
   {
     "question": "In a group of 7 people, 5 of them are male and 2 are female. What is the probability that a randomly chosen person is male?",
-    "options": ["0.5", "0.6", "0.7", "0.8", "0.9"],
+    "options": ["0.5", "0.6", "0.7", "0.8"],
     "answer": "0.7"
   },
   {
@@ -227,7 +226,7 @@
     "answer": "Niece"
   },
   {
-    "question": "She has the courage to rise from the occasion and win the medal for the country.",
+    "question": "She has the courage 'to rise' from the occasion and win the medal for the country.Find the suitable options for the above mentioned word which is give in single quotes",
     "options": [
       "to rise to",
       "to rise",
@@ -277,7 +276,7 @@
     "answer": "31"
   },
   {
-    "question": "Hit the sack(idiom,find the phrase",
+    "question": "Hit the sack(idiom,find the phrase)",
     "options": [
       "It's not complicated",
       "Tell something briefly",
