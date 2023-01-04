@@ -116,7 +116,7 @@
     "answer": "None of these"
   },
   {
-    "questions": "Choose the correct alternative that will continue the same pattern and replace the question mark in the given series;"," 120, 99, 80, 63, 48, ?",
+    "questions": "Choose the correct alternative that will continue the same pattern and replace the question mark in the given series. 120, 99, 80, 63, 48, ?",
     "options": ["35","38","39","40"],
     "answer": "35"
   },
@@ -155,7 +155,7 @@
     "answer": "17.2"
   },
   {
-    "questions": "A hall is 15 m long and 12 m broa If the sum of the areas of the floor and the ceiling is equal to the sum of the areas of four walls, the volume of the hall is:",
+    "questions": "A hall is 15 m long and 12 m broad. If the sum of the areas of the floor and the ceiling is equal to the sum of the areas of four walls, the volume of the hall is:",
     "options": ["720", "900", "1200", "1800"],
     "answer": "1200"
   },
@@ -280,7 +280,7 @@
     "answer": "Assertion is correct but Reason is incorrect"
   },
   {
-    "questions": "What was the day on 27th –November-1989?",
+    "questions": "What was the day on 27th November-1989?",
     "options": ["Monday", "Wednesday", "Saturday", "Tuesday"],
     "answer": "Monday"
   },
