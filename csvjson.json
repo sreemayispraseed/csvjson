@@ -51,8 +51,8 @@
   },
   {
     "questions": "One third of a number is 96. What will 67% of that number be?",
-    "options": "A) 19296\n B) 18444\n C) 16992\n D) 20488",
-    "answer": "A"
+    "options": ["19296\n", "18444\n", "16992\n", "20488"],
+    "answer": "19296\n"
   },
   {
     "questions": "In a group of 7 people, 5 of them are male and 2 are female. What is the probability that a randomly chosen person is male?",
