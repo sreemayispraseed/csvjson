@@ -1,11 +1,11 @@
 [
   {
-    "questions": "In a certain city, 25% of the population is unemployed. If the city has a population of 60,000, how many people are employed?",
+    "question": "In a certain city, 25% of the population is unemployed. If the city has a population of 60,000, how many people are employed?",
     "options": ["45,000", "15,000", "30,000", "50,000"],
     "answer": "50,000"
   },
   {
-    "questions": "If x and y are positive integers, is xy odd?",
+    "question": "If x and y are positive integers, is xy odd?",
     "options": [
       "Yes, if x is odd and y is odd",
       " Yes, if x is even and y is even",
@@ -15,202 +15,218 @@
     "answer": "Yes, if x is odd and y is odd"
   },
   {
-    "questions": "A number is chosen at random from the set {1, 2, 3, 4, 5}. What is the probability that the number chosen is a multiple of 3 or a multiple of 4?",
-    "options": ["0.4","0.6","0.8","0.2"],
+    "question": "A number is chosen at random from the set {1, 2, 3, 4, 5}. What is the probability that the number chosen is a multiple of 3 or a multiple of 4?",
+    "options": ["0.4", "0.6", "0.8", "0.2"],
     "answer": "0.6"
   },
   {
-    "questions": "If the length of a rectangle is decreased by 25% and the width is increased by 25%, what is the net effect on the area of the rectangle?",
-    "options": ["The area is decreased by 25%","The area is increased by 25%","The area is unchanged","The area is decreased by 6.25%"],
+    "question": "If the length of a rectangle is decreased by 25% and the width is increased by 25%, what is the net effect on the area of the rectangle?",
+    "options": [
+      "The area is decreased by 25%",
+      "The area is increased by 25%",
+      "The area is unchanged",
+      "The area is decreased by 6.25%"
+    ],
     "answer": "The area is unchanged"
   },
   {
-    "questions": "If a, b, and c are positive integers such that a + b + c = 12, what is the maximum possible value of a^2 + b^2 + c^2?",
-    "options": ["36","8","60","84"],
+    "question": "If a, b, and c are positive integers such that a + b + c = 12, what is the maximum possible value of a^2 + b^2 + c^2?",
+    "options": ["36", "8", "60", "84"],
     "answer": "84"
   },
   {
-    "questions": "A certain computer can perform 10^3 calculations per second. How many calculations can it perform in 10^4 seconds?",
-    "options": ["10^4","10^5","10^6","10^7","10^8"],
+    "question": "A certain computer can perform 10^3 calculations per second. How many calculations can it perform in 10^4 seconds?",
+    "options": ["10^4", "10^5", "10^6", "10^7"],
     "answer": "10^4"
   },
   {
-    "questions": "A sequence is defined by the following rule: the first term is 1, and each subsequent term is equal to the sum of the two previous terms. What is the 10th term of this sequence?",
-    "options": ["55","  89","  144","  233","  377"],
+    "question": "A sequence is defined by the following rule: the first term is 1, and each subsequent term is equal to the sum of the two previous terms. What is the 10th term of this sequence?",
+    "options": ["55", "89", "144", "377"],
     "answer": "377"
   },
   {
-    "questions": "There are 12 people at a party, and each person shakes hands with every other person exactly once. How many handshakes occurred?",
-    "options": ["12","66","78","132"],
+    "question": "There are 12 people at a party, and each person shakes hands with every other person exactly once. How many handshakes occurred?",
+    "options": ["12", "66", "78", "132"],
     "answer": "78"
   },
   {
-    "questions": "If x is equal to the product of y and z, and y is equal to the quotient of u and v, what is the value of x in terms of u and v if x = 6, y = 2, and z = 3?",
-    "options": ["u = 3, v = 1","u = 6, v = 2","u = 9, v = 3","u = 4, v = 2","u = 12, v = 4"],
+    "question": "If x is equal to the product of y and z, and y is equal to the quotient of u and v, what is the value of x in terms of u and v if x = 6, y = 2, and z = 3?",
+    "options": [
+      "u = 3, v = 1",
+      "u = 6, v = 2",
+      "u = 9, v = 3",
+      "u = 12, v = 4"
+    ],
     "answer": "u = 12, v = 4"
   },
-  
+
   {
-    "questions": "One third of a number is 96. What will 67% of that number be?",
+    "question": "One third of a number is 96. What will 67% of that number be?",
     "options": ["19296", "18444", "16992", "20488"],
     "answer": "19296"
   },
   {
-    "questions": "In a group of 7 people, 5 of them are male and 2 are female. What is the probability that a randomly chosen person is male?",
-    "options": ["0.5", "0.6", "0.7", "0.8", "0.9"],
+    "question": "In a group of 7 people, 5 of them are male and 2 are female. What is the probability that a randomly chosen person is male?",
+    "options": ["0.5", "0.6", "0.7", "0.8"],
     "answer": "0.7"
   },
   {
-    "questions": "A rectangular prism has dimensions of 3x, 4x, and 5x. What is the volume of the prism in terms of x?",
+    "question": "A rectangular prism has dimensions of 3x, 4x, and 5x. What is the volume of the prism in terms of x?",
     "options": [" 15x^3", "60x^3", "20x^3", "48x^3"],
     "answer": "60x^3"
   },
   {
-    "questions": "The ratio between the present ages of A and B is 3:5 respectively. If the difference between B's present age and A's age after 4 years is 2 , what is the total of A's and B's present ages?",
+    "question": "The ratio between the present ages of A and B is 3:5 respectively. If the difference between B's present age and A's age after 4 years is 2 , what is the total of A's and B's present ages?",
     "options": ["24 years", "32 year", "48 years", "cannot be determined"],
     "answer": "24 years"
   },
   {
-    "questions": "If in a certain language THEN is coded as RLBS then which word is coded as AEPJ?",
+    "question": "If in a certain language THEN is coded as RLBS then which word is coded as AEPJ?",
     "options": ["CSAE", "SACE", "CASE", "CAES"],
     "answer": "CASE"
   },
   {
-    "questions": "If in a certain language, NEOMAN is coded as OGRQFT, which word will be coded as ZKCLUP?",
+    "question": "If in a certain language, NEOMAN is coded as OGRQFT, which word will be coded as ZKCLUP?",
     "options": ["YIZHPJ", "XIAJSN", "YJBKTO", "ZIBQJL"],
     "answer": "YIZHPJ"
   },
   {
-    "questions": "Two ships are sailing in the sea on the two sides of a lighthouse. The angle of elevation of the top of the lighthouse is observed from the ships are 30° and 45° respectively. If the lighthouse is 100 m high, the distance between the two ships is:",
+    "question": "Two ships are sailing in the sea on the two sides of a lighthouse. The angle of elevation of the top of the lighthouse is observed from the ships are 30° and 45° respectively. If the lighthouse is 100 m high, the distance between the two ships is:",
     "options": ["173 m", "200 m", "273 m", "300 m"],
     "answer": "273 m"
   },
   {
-    "questions": "The angle of elevation of a ladder leaning against a wall is 60° and the foot of the ladder is 4.6 m away from the wall. The length of the ladder is:",
+    "question": "The angle of elevation of a ladder leaning against a wall is 60° and the foot of the ladder is 4.6 m away from the wall. The length of the ladder is:",
     "options": ["2.3 m", "4.6 m", "7.8 m", "9.2 m"],
     "answer": "9.2 m"
   },
   {
-    "questions": "Look at this series: 7, 10, 8, 11, 9, 12, ... What number should come next?",
+    "question": "Look at this series: 7, 10, 8, 11, 9, 12, ... What number should come next?",
     "options": ["7", "10", "12", "13"],
     "answer": "10"
   },
   {
-    "questions": "All the trees in the park are flowering trees.Some of the trees in the park are dogwoods. All dogwoods in the park are flowering trees.If the first two statements are true, the third statement is",
-    "options": ["true","false","uncertain"],
+    "question": "All the trees in the park are flowering trees.Some of the trees in the park are dogwoods. All dogwoods in the park are flowering trees.If the first two statements are true, the third statement is",
+    "options": ["true", "false", "uncertain"],
     "answer": "true"
   },
   {
-    "questions": "Two students appeared at an examination. One of them secured 9 marks more than the other and his marks was 56% of the sum of their marks. The marks obtained by them are:",
-    "options": ["39,30","41,32","42,33","43,34"],
+    "question": "Two students appeared at an examination. One of them secured 9 marks more than the other and his marks was 56% of the sum of their marks. The marks obtained by them are:",
+    "options": ["39,30", "41,32", "42,33", "43,34"],
     "answer": "42,33"
   },
   {
-    "questions": "What percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit?",
-    "options": ["1","14","20","21"],
+    "question": "What percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit?",
+    "options": ["1", "14", "20", "21"],
     "answer": "20"
   },
   {
-    "questions": "If A = x% of y and B = y% of x, then which of the following is true?",
-    "options": ["A is smaller than B.","A is greater than B","Relationship between A and B cannot be determined","None of these"],
+    "question": "If A = x% of y and B = y% of x, then which of the following is true?",
+    "options": [
+      "A is smaller than B.",
+      "A is greater than B",
+      "Relationship between A and B cannot be determined",
+      "None of these"
+    ],
     "answer": "None of these"
   },
   {
-    "questions": "Choose the correct alternative that will continue the same pattern and replace the question mark in the given series. 120, 99, 80, 63, 48, ?",
-    "options": ["35","38","39","40"],
+    "question": "Choose the correct alternative that will continue the same pattern and replace the question mark in the given series. 120, 99, 80, 63, 48, ?",
+    "options": ["35", "38", "39", "40"],
     "answer": "35"
   },
   {
-    "questions": "In the series 2, 6, 18, 54, ...... what will be the 8th term ?",
-    "options": ["4370","4374","7443","7434"],
+    "question": "In the series 2, 6, 18, 54, ...... what will be the 8th term ?",
+    "options": ["4370", "4374", "7443", "7434"],
     "answer": "4374"
   },
   {
-    "questions": "If A is the brother of B; B is the sister of C; and C is the father of D, how D is related to A?",
-    "options": ["Brother","Sister","Nephew","Cannot be determined"],
+    "question": "If A is the brother of B; B is the sister of C; and C is the father of D, how D is related to A?",
+    "options": ["Brother", "Sister", "Nephew", "Cannot be determined"],
     "answer": "Cannot be determined"
   },
   {
-    "questions": "How many cubes having red, green and black colors on at least one side of the cube will be formed ?",
-    "options": ["16","12","10","4"],
+    "question": "How many cubes having red, green and black colors on at least one side of the cube will be formed ?",
+    "options": ["16", "12", "10", "4"],
     "answer": "4"
   },
   {
-    "questions": "A, P, R, X, S and Z are sitting in a row. S and Z are in the centre. A and P are at the ends. R is sitting to the left of A. Who is to the right of P ?",
-    "options": ["A","X","S","Z"],
+    "question": "A, P, R, X, S and Z are sitting in a row. S and Z are in the centre. A and P are at the ends. R is sitting to the left of A. Who is to the right of P ?",
+    "options": ["A", "X", "S", "Z"],
     "answer": "X"
   },
   {
-    "questions": "Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case",
-    "options": ["4","7","9","13"],
+    "question": "Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case",
+    "options": ["4", "7", "9", "13"],
     "answer": "4"
-  }, {
-    "questions": "Let N be the greatest number that will divide 1305, 4665 and 6905, leaving the same remainder in each case. Then sum of the digits in N is:",
+  },
+  {
+    "question": "Let N be the greatest number that will divide 1305, 4665 and 6905, leaving the same remainder in each case. Then sum of the digits in N is:",
     "options": ["4", "5", "6", "8"],
     "answer": "4"
   },
   {
-    "questions": "If 2994 ÷ 14.5 = 172, then 29.94 ÷ 1.45 = ?",
+    "question": "If 2994 ÷ 14.5 = 172, then 29.94 ÷ 1.45 = ?",
     "options": ["0.172", "1.72", "17.2", "172"],
     "answer": "17.2"
   },
   {
-    "questions": "A hall is 15 m long and 12 m broad. If the sum of the areas of the floor and the ceiling is equal to the sum of the areas of four walls, the volume of the hall is:",
+    "question": "A hall is 15 m long and 12 m broad. If the sum of the areas of the floor and the ceiling is equal to the sum of the areas of four walls, the volume of the hall is:",
     "options": ["720", "900", "1200", "1800"],
     "answer": "1200"
   },
   {
-    "questions": "2 years ago A’s age was 6 times of B’s age. 6 years after the ratio between the ages of A and B becomes 10 : 3. What is A’s present age?",
+    "question": "2 years ago A's age was 6 times of B's age. 6 years after the ratio between the ages of A and B becomes 10 : 3. What is A's present age?",
     "options": ["44", "38", "42", "34"],
     "answer": "44"
   },
   {
-    "questions": "A guy bought 10 pencils for Rs. 50 and sold them for Rs. 60.What is his gain in terms of percentage?",
+    "question": "A guy bought 10 pencils for Rs. 50 and sold them for Rs. 60.What is his gain in terms of percentage?",
     "options": ["10%", "5%", "20%", "12%"],
     "answer": "20%"
   },
   {
-    "questions": "In the first 10 overs of a cricket game, the run rate was only 3.2. What should be the run rate in the remaining 40 overs to reach the target of 282 runs?",
+    "question": "In the first 10 overs of a cricket game, the run rate was only 3.2. What should be the run rate in the remaining 40 overs to reach the target of 282 runs?",
     "options": ["6.25", "6.5", "6.75", "7"],
     "answer": "6.25"
   },
   {
-    "questions": "A grocer has a sale of Rs. 6435, Rs. 6927, Rs. 6855, Rs. 7230 and Rs. 6562 for 5 consecutive months. How much sale must he have in the sixth month so that he gets an average sale of Rs. 6500?",
+    "question": "A grocer has a sale of Rs. 6435, Rs. 6927, Rs. 6855, Rs. 7230 and Rs. 6562 for 5 consecutive months. How much sale must he have in the sixth month so that he gets an average sale of Rs. 6500?",
     "options": ["Rs. 4991", "Rs. 5991", "Rs. 6001", "Rs. 6991"],
     "answer": " Rs.4991"
   },
   {
-    "questions": "The average of 20 numbers is zero. Of them, at the most, how many may be greater than zero?",
+    "question": "The average of 20 numbers is zero. Of them, at the most, how many may be greater than zero?",
     "options": ["0", "1", "10", "19"],
     "answer": "19"
   },
   {
-    "questions": "The average weight of 8 person's increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What might be the weight of the new person?",
+    "question": "The average weight of 8 person's increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What might be the weight of the new person?",
     "options": ["76 kg", "76.5 kg", "85 kg", "Data inadequate"],
     "answer": "85 kg"
   },
   {
-    "questions": "The average monthly income of P and Q is Rs. 5050. The average monthly income of Q and R is Rs. 6250 and the average monthly income of P and R is Rs. 5200. The monthly income of P is",
+    "question": "The average monthly income of P and Q is Rs. 5050. The average monthly income of Q and R is Rs. 6250 and the average monthly income of P and R is Rs. 5200. The monthly income of P is",
     "options": ["3500", "4000", "4050", "5000"],
     "answer": "4000"
   },
   {
-    "questions": "What will be the day of the week 15th August, 2010?",
+    "question": "What will be the day of the week 15th August, 2010?",
     "options": ["Sunday", "Monday", "Tuesday", "Friday"],
     "answer": "Sunday"
   },
   {
-    "questions": "How many days are there in x weeks x days?",
+    "question": "How many days are there in x weeks x days?",
     "options": ["7x2", "8x", "14x", "7"],
     "answer": "8x"
   },
   {
-    "questions": "Pointing to a man in a photograph, a woman said, \"He is the only son of my mother's father\". How is the woman related to the man in the photograph?",
+    "question": "Pointing to a man in a photograph, a woman said,'He is the only son of my mother's father'.How is the woman related to the man in the photograph?",
     "options": ["Mother", "Niece", "Wife", "Sister"],
     "answer": "Niece"
   },
   {
-    "questions": "She has the courage to rise from the occasion and win the medal for the country.",
+    "question": "She has the courage 'to rise' from the occasion and win the medal for the country.Find the suitable options for the above mentioned word which is give in single quotes",
     "options": [
       "to rise to",
       "to rise",
@@ -220,47 +236,47 @@
     "answer": "to rise to"
   },
   {
-    "questions": "A train speeding at 120 km/hr crosses an electric pole in 9 seconds and a platform in 24 seconds. What is the length of the platform?",
+    "question": "A train speeding at 120 km/hr crosses an electric pole in 9 seconds and a platform in 24 seconds. What is the length of the platform?",
     "options": ["500m", "800m", "300m", "1100m"],
     "answer": "500m"
   },
   {
-    "questions": "A coin is tossed 3 times. The probability of obtaining at least two heads is",
+    "question": "A coin is tossed 3 times. The probability of obtaining at least two heads is",
     "options": ["1/8", "3/8", "1/2", "2/3"],
     "answer": "1/2"
   },
   {
-    "questions": "The distance between two cities is 30 Km. A man goes at a speed of 30 Km per hour and returns at 20 Km per hour. What is his average speed",
+    "question": "The distance between two cities is 30 Km. A man goes at a speed of 30 Km per hour and returns at 20 Km per hour. What is his average speed",
     "options": ["24", "25", "10", "26"],
     "answer": "24"
   },
   {
-    "questions": "Four years ago a man was 6 times as old as his son. After 16 years he will be twice as old as his son. What is the present age of man and his son?",
+    "question": "Four years ago a man was 6 times as old as his son. After 16 years he will be twice as old as his son. What is the present age of man and his son?",
     "options": ["34,9", "33,7", "35,5", "36,6"],
     "answer": "34,9"
   },
   {
-    "questions": "If one-third of one-fourth of a number is 15, then three-tenth of that number is:",
+    "question": "If one-third of one-fourth of a number is 15, then three-tenth of that number is:",
     "options": ["35", "36", "45", "54"],
     "answer": "54"
   },
   {
-    "questions": "Jack is playing volleyball with his friends .... the beach.",
+    "question": "Jack is playing volleyball with his friends .... the beach.",
     "options": ["at", "on", "in", "of"],
     "answer": "on"
   },
   {
-    "questions": "The ratio of A's age 6 years ago and B's age after 6 years is 3 : 3. If at present, the ratio of their ages is 7 : 5, then what is the ratio between A's age 6 years hence and B's age 6 years ago?",
+    "question": "The ratio of A's age 6 years ago and B's age after 6 years is 3 : 3. If at present, the ratio of their ages is 7 : 5, then what is the ratio between A's age 6 years hence and B's age 6 years ago?",
     "options": ["3:5", "2:3", "1:2", "2:1"],
     "answer": "2:1"
   },
   {
-    "questions": "The sum of the first three terms of an arithmetic sequence is 111 and the fourth term is 49. What is the first term?",
+    "question": "The sum of the first three terms of an arithmetic sequence is 111 and the fourth term is 49. What is the first term?",
     "options": ["24", "31", "37", "13"],
     "answer": "31"
   },
   {
-    "questions": "Hit the sack(idiom,find the phras",
+    "question": "Hit the sack(idiom,find the phrase)",
     "options": [
       "It's not complicated",
       "Tell something briefly",
@@ -270,7 +286,7 @@
     "answer": "Go to sleep"
   },
   {
-    "questions": "Assertion: Carbohydrates provide energy to the body.Reason: Obesity is caused by excessive intake of carbohydrates.",
+    "question": "Assertion: Carbohydrates provide energy to the body.Reason: Obesity is caused by excessive intake of carbohydrates.",
     "options": [
       "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion",
       "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion",
@@ -280,142 +296,138 @@
     "answer": "Assertion is correct but Reason is incorrect"
   },
   {
-    "questions": "What was the day on 27th November-1989?",
+    "question": "What was the day on 27th November-1989?",
     "options": ["Monday", "Wednesday", "Saturday", "Tuesday"],
     "answer": "Monday"
   },
   {
-    "questions": "Mother said to kids,Don't go out on a bright, sunny day.Find the adjective",
+    "question": "Mother said to kids,Don't go out on a bright, sunny day.Find the adjective",
     "options": ["bright", "sunny", "both A and B", "out"],
     "answer": "sunny"
   },
   {
-    "questions": "Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 3 or 5?",
+    "question": "Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 3 or 5?",
     "options": ["1/2", "2/5", "8/15", "9/20"],
     "answer": "9/20"
   },
   {
-    "questions": "A can contains a mixture of two liquids A and B is the ratio 7 : 5. When 9 litres of mixture are drawn off and the can is filled with B, the ratio of A and B becomes 7 : 9. How many litres of liquid A was contained by the can initially?",
+    "question": "A can contains a mixture of two liquids A and B is the ratio 7 : 5. When 9 litres of mixture are drawn off and the can is filled with B, the ratio of A and B becomes 7 : 9. How many litres of liquid A was contained by the can initially?",
     "options": ["10", "20", "21", "25"],
     "answer": "21"
   },
   {
-    "questions": "In what ratio must a grocer mix two varieties of pulses costing Rs. 15 and Rs. 20 per kg respectively so as to get a mixture worth Rs. 16.50 kg?",
+    "question": "In what ratio must a grocer mix two varieties of pulses costing Rs. 15 and Rs. 20 per kg respectively so as to get a mixture worth Rs. 16.50 kg?",
     "options": ["3 : 7", " 5 : 7", " 7 : 3", " 7 : 5"],
     "answer": "7 : 3"
   },
   {
-    "questions": "From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are there on the committee. In how many ways can it be done?",
+    "question": "From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are there on the committee. In how many ways can it be done?",
     "options": ["564", "645", "735", "756"],
     "answer": "756"
   },
   {
-    "questions": "In how many different ways can the letters of the word 'LEADING' be arranged in such a way that the vowels always come together?",
+    "question": "In how many different ways can the letters of the word 'LEADING' be arranged in such a way that the vowels always come together?",
     "options": ["360", " 480", " 720", " 5040"],
     "answer": "720"
   },
   {
-    "questions": "The compound interest on Rs. 30,000 at 7% per annum is Rs. 4347. The period (in years) is:",
+    "question": "The compound interest on Rs. 30,000 at 7% per annum is Rs. 4347. The period (in years) is:",
     "options": ["2", " 2 1/2", " 3", " 4"],
     "answer": "2"
   },
   {
-    "questions": "If log 27 = 1.431, then the value of log 9 is:",
+    "question": "If log 27 = 1.431, then the value of log 9 is:",
     "options": ["0.934", " 0.945", " 0.954", "0.958"],
     "answer": "0.954"
   },
   {
-    "questions": "Today it is Thursday.After 132 days,it will be",
+    "question": "Today it is Thursday.After 132 days,it will be",
     "options": ["Monday", "Sunday", "Wednesday", "Thursday"],
     "answer": "Wednesday"
   },
   {
-    "questions": "Find the H.C.F, if the numbers are in the ratio of 4 : 5 : 6 and their L.C.M. is 2400.",
+    "question": "Find the H.C.F, if the numbers are in the ratio of 4 : 5 : 6 and their L.C.M. is 2400.",
     "options": ["35", "20", "40", "67"],
     "answer": "20"
   },
   {
-    "questions": "A and B together can finish a work in 30 days. They worked for it for 20 days and then B left the work. The remaining work was done by A alone in 20 days more. In how many days can A alone finish the work?",
+    "question": "A and B together can finish a work in 30 days. They worked for it for 20 days and then B left the work. The remaining work was done by A alone in 20 days more. In how many days can A alone finish the work?",
     "options": ["48 days", "50 days", "54 days", "60 days"],
     "answer": "60 days"
   },
   {
-    "questions": "If percentage of profit made, when an article is sold for Rs.78, is twice as when it is sold for Rs.69, the cost price of the article is",
-    "options": ["Rs.49","Rs.51","Rs.57","Rs.60"],
-    "answer": "60"
+    "question": "If percentage of profit made, when an article is sold for Rs.78, is twice as when it is sold for Rs.69, the cost price of the article is",
+    "options": ["Rs.49", "Rs.51", "Rs.57", "Rs.60"],
+    "answer": "Rs.60"
   },
   {
-    "questions": "Gautam travels 160 kms at 32 kmph and returns at 40 kmph. Then average speed is",
-    "options": ["35.55 kmph","71.11 kmph","36 kmph","72 kmph"],
+    "question": "Gautam travels 160 kms at 32 kmph and returns at 40 kmph. Then average speed is",
+    "options": ["35.55 kmph", "71.11 kmph", "36 kmph", "72 kmph"],
     "answer": "35.55 kmph"
   },
   {
-    "questions": "If a+b+c = 6 and ab+bc+ca = 1, then the value of bc(b+ + ca(c++ab(a+ +3abc is",
-    "options":  ["33","66","55","23"],
-    "answer": "66" 
+    "question": "If a+b+c = 6 and ab+bc+ca = 1, then the value of bc(b+c)+ca(c+a)+ab(a+b)+3abc is",
+    "options": ["33", "66", "55", "23"],
+    "answer": "66"
   },
   {
-    "questions": "120 men consume 720 kg of rice in 30 days. In how many days can 90 men consume 270 kg?",
-    "options":  ["18","12","9","15"],
+    "question": "120 men consume 720 kg of rice in 30 days. In how many days can 90 men consume 270 kg?",
+    "options": ["18", "12", "9", "15"],
     "answer": "15"
   },
   {
-    "questions": "A and B can together complete a task 40 days. They worked together for 30 days and then left. A finished the remaining task in next 22 days. In how many days A alone can finish the task?",
-    "options": ["88 days","48 days","30 days","40 days"],
+    "question": "A and B can together complete a task 40 days. They worked together for 30 days and then left. A finished the remaining task in next 22 days. In how many days A alone can finish the task?",
+    "options": ["88 days", "48 days", "30 days", "40 days"],
     "answer": "88 days"
   },
   {
-    "questions": "If A: B = 2: 3, B: C = 6: 11 then what is the value of C: B: A?",
-    "options": ["11:6:2","22: 6: 4","11: 3: 2","11: 6: 4"],
+    "question": "If A: B = 2: 3, B: C = 6: 11 then what is the value of C: B: A?",
+    "options": ["11:6:2", "22: 6: 4", "11: 3: 2", "11: 6: 4"],
     "answer": "11:6:4"
   },
   {
-    "questions": "In a certain code 'GIVE' is written as '51@© and 'FAIL' is written as '%219'. How is LEAF writ-ten in that code ?",
-    "options": ["5©2%","9©2%","9@2%","9©1%"],
+    "question": "In a certain code 'GIVE' is written as '51@© and 'FAIL' is written as '%219'. How is LEAF written in that code ?",
+    "options": ["5©2%", "9©2%", "9@2%", "9©1%"],
     "answer": "9©2%"
   },
   {
-    "questions": "In a certain code language 'RISE' is written as '8419', and 'MEAL' is written as '5927'. How is 'RAIL' written in that code ?",
-    "options": ["8429","8124","8247","8412"],
+    "question": "In a certain code language 'RISE' is written as '8419', and 'MEAL' is written as '5927'. How is 'RAIL' written in that code ?",
+    "options": ["8429", "8124", "8247", "8412"],
     "answer": "8247"
   },
   {
-    "questions": "The day after the day after tomorrow is four days before Monday. What day is it today?",
-    "options": ["Monday","Tuesday","Wednesday","Thursday"],
+    "question": "The day after the day after tomorrow is four days before Monday. What day is it today?",
+    "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
     "answer": "Thursday"
   },
   {
-    "questions": " A fruit basket contains more apples than lemons."," There are more lemons in the basket than there are oranges."," The basket contains more apples than oranges."," "," If the first two statements are true, the third statement is",
-    "options": ["true","false"],
+    "question": " A fruit basket contains more apples than lemons.There are more lemons in the basket than there are oranges.The basket contains more apples than oranges.If the first two statements are true, the third statement is",
+    "options": ["true", "false"],
     "answer": "true"
   },
   {
-    "questions": "In a code, CORNER is written as GSVRIV. How can CENTRAL be written in that code?",
-    "options": ["DFOUSBM","GIRXVEP","GNFJKER","None of these"],
+    "question": "In a code, CORNER is written as GSVRIV. How can CENTRAL be written in that code?",
+    "options": ["DFOUSBM", "GIRXVEP", "GNFJKER", "None of these"],
     "answer": "GIRXVEP"
   },
   {
-    "questions": "A person crosses a 600 m long street in 5 minutes. What is his speed in km per hour?",
-    "options": ["3.6","7.2","8.4","10"],
+    "question": "A person crosses a 600 m long street in 5 minutes. What is his speed in km per hour?",
+    "options": ["3.6", "7.2", "8.4", "10"],
     "answer": "7.2"
   },
   {
-    "questions": "Walking at the rate of 4 kmph a man cover a certain distance in 2 hr 45 min. Running at a speed of 16.5 kmph the man will cover the same distance in.",
-    "options": ["12 min","40 min","50 min","60 min"],
+    "question": "Walking at the rate of 4 kmph a man cover a certain distance in 2 hr 45 min. Running at a speed of 16.5 kmph the man will cover the same distance in.",
+    "options": ["12 min", "40 min", "50 min", "60 min"],
     "answer": "40 min"
   },
   {
-    "questions": "Express 25 mps in kmph?",
-    "options": ["15 kmph","99 kmph","90 kmph","None"],
+    "question": "Express 25 mps in kmph?",
+    "options": ["15 kmph", "99 kmph", "90 kmph", "None"],
     "answer": "90 kmph"
   },
   {
-    "questions": "A, B and C take a work at Rs 24000. A alone can do the work in 20 days, B alone can do the same work in 30 days and C alone can do the same work in 24 days. Find the wages of ",
-    "options": ["Rs 9400","Rs 6500","Rs 6480","Rs 9600"],
-    "answer": "9600"
+    "question": "A, B and C take a work at Rs 24000. A alone can do the work in 20 days, B alone can do the same work in 30 days and C alone can do the same work in 24 days. Find the wages of A",
+    "options": ["Rs 9400", "Rs 6500", "Rs 6480", "Rs 9600"],
+    "answer": "Rs 9600"
   }
 ]
-  
- 
- 
-  
