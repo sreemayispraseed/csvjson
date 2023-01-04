@@ -1,5 +1,5 @@
 [{
-    "questions": "All the trees in the park are flowering trees."," Some of the trees in the park are dogwoods."," All dogwoods in the park are flowering trees."," If the first two statements are true, the third statement is",
+    "questions": "All the trees in the park are flowering trees.Some of the trees in the park are dogwoods. All dogwoods in the park are flowering trees.If the first two statements are true, the third statement is",
     "options": ["true","false","uncertain"],
     "answer": "true"
   },
@@ -10,41 +10,41 @@
   },
   {
     "questions": "What percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit?",
-    "options": ["A. 1"," B. 14"," C. 20"," D. 21"],
-    "answer": "C. 20"
+    "options": ["1","14","20","21"],
+    "answer": "20"
   },
   {
     "questions": "If A = x% of y and B = y% of x, then which of the following is true?",
-    "options": "A. A is smaller than B."," B. A is greater than B"," C. Relationship between A and B cannot be determined."," D. If x is smaller than y, then A is greater than B."," E. None of these",
-    "answer": "E. None of these"
+    "options": ["A is smaller than B.","A is greater than B","Relationship between A and B cannot be determined","None of these"],
+    "answer": "None of these"
   },
   {
     "questions": "Choose the correct alternative that will continue the same pattern and replace the question mark in the given series;"," 120, 99, 80, 63, 48, ?",
-    "options": "A. 35"," B. 38"," C. 39"," D. 40",
-    "answer": "A.35"
+    "options": ["35","38","39","40"],
+    "answer": "35"
   },
   {
     "questions": "In the series 2, 6, 18, 54, ...... what will be the 8th term ?",
-    "options": "A. 4370"," B. 4374"," C. 7443"," D. 7434",
-    "answer": "B. 4374"
+    "options": ["4370","4374","7443","7434"],
+    "answer": "4374"
   },
   {
     "questions": "If A is the brother of B; B is the sister of C; and C is the father of D, how D is related to A?",
-    "options": "A. Brother"," B. Sister"," C. Nephew"," D. Cannot be determined",
-    "answer": "D. Cannot be determined"
+    "options": ["Brother","Sister","Nephew","Cannot be determined"],
+    "answer": "Cannot be determined"
   },
   {
-    "questions": "How many cubes having red, green and black colours on at least one side of the cube will be formed ?",
-    "options": "A. 16"," B. 12"," C. 10"," D. 4",
-    "answer": "D. 4"
+    "questions": "How many cubes having red, green and black colors on at least one side of the cube will be formed ?",
+    "options": ["16","12","10","4"],
+    "answer": "4"
   },
   {
     "questions": "A, P, R, X, S and Z are sitting in a row. S and Z are in the centre. A and P are at the ends. R is sitting to the left of A. Who is to the right of P ?",
-    "options": "A. A"," B. X"," C. S"," D. Z",
-    "answer": "B. X"
+    "options": ["A","X","S","Z"],
+    "answer": "X"
   },
   {
     "questions": "Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case",
-    "options": "A. 4"," B. 7"," C. 9"," D. 13",
-    "answer": "A. 4"
+    "options": ["4","7","9","13"],
+    "answer": "4"
   }]
