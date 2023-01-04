@@ -1,13 +1,18 @@
 [
   {
     "questions": "In a certain city, 25% of the population is unemployed. If the city has a population of 60,000, how many people are employed?",
-    "options": "A) 45,000\n B) 15,000\n C) 30,000\n D) 50,000",
-    "answer": "D"
+    "options": ["45,000", "15,000", "30,000", "50,000"],
+    "answer": "50,000"
   },
   {
     "questions": "If x and y are positive integers, is xy odd?",
-    "options": "A) Yes, if x is odd and y is odd\n B) Yes, if x is even and y is even\n C) No, if x is odd and y is odd\n D) No, if x is even and y is even",
-    "answer": "A"
+    "options": [
+      "Yes, if x is odd and y is odd",
+      " Yes, if x is even and y is even",
+      " No, if x is odd and y is odd",
+      " No, if x is even and y is even"
+    ],
+    "answer": "Yes, if x is odd and y is odd"
   },
   {
     "questions": "A number is chosen at random from the set {1, 2, 3, 4, 5}. What is the probability that the number chosen is a multiple of 3 or a multiple of 4?",
